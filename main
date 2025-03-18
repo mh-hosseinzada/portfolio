@@ -1,0 +1,62 @@
+<!--	Mohammad Hossain Hosseinzada  -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Somwthing</title>
+
+    <!-- Font Preconnect Links -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <!-- Link to the Custom Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS -->
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="overview.html">Products</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1>Welcome to the something</h1>
+        <p>bla bla</p>
+    </header>
+
+<div class="content">
+    <main>
+        <section>
+            <h2>Latest News</h2>
+            <p>Some news.</p>
+        </section>
+
+        <section>
+            <h2>aaaaa</h2>
+            <p>bbbbb:</p>
+            <ul>
+                <li><strong>1:</strong> eeeee.</li>
+                <li><strong>2:</strong> eeeeee.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>a section</h2>
+            <p>something more</p>
+        </section>
+    </main>
+</div>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2025. All rights reserved.</p>
+    </footer>
+</body>
+</html>
